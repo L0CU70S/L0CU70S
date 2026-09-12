@@ -76,7 +76,7 @@ This profile will include independent and educational work such as:
 ## 📌 Current Focus
 
 - [X] Study SPARTA and document non-official PT-BR learning notes
-- [ ] Study NIST IR 8270 for commercial satellite operations
+- [x] Study NIST IR 8270 for commercial satellite operations
 - [ ] Develop a fictional Ground Segment security assessment
 - [ ] Build Blue Team, monitoring, and incident-response lab artifacts
 - [ ] Strengthen OT/ICS security fundamentals for critical environments
