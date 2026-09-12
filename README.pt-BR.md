@@ -76,7 +76,7 @@ Este perfil reunirá trabalhos independentes e educacionais, como:
 ## 📌 Foco atual
 
 - [X] Estudar o SPARTA e documentar notas educacionais não oficiais em PT-BR
-- [ ] Estudar o NIST IR 8270 para operações comerciais de satélite
+- [x] Estudar o NIST IR 8270 para operações comerciais de satélite
 - [ ] Desenvolver um assessment fictício de segurança para Ground Segment
 - [ ] Construir artefatos de laboratório de Blue Team, monitoramento e resposta a incidentes
 - [ ] Fortalecer os fundamentos de segurança OT/ICS para ambientes críticos
@@ -84,8 +84,8 @@ Este perfil reunirá trabalhos independentes e educacionais, como:
 ## 🌐 Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/l0cu70s/)
-- [YouTube](https://www.youtube.com/@l0cu70s)
-- [Blog](https://paragraph.com/@l0cu70s)
-- [Perfil profissional](https://profiles.cyfrin.io/u/l0cu70s)
+- [YouTube](https://www.youtube.com/@IgorDocendoDiscimus)
+- [Portifólio](https://l0cu70s.github.io/cee-orbital/)
+- [Blog](https://x.com/L0CU70S)
 
 > **Aviso:** Este é um portfólio educacional e independente. Ele não contém informações de clientes, materiais proprietários, dados confidenciais, credenciais, arquiteturas internas ou documentação pertencente ao empregador. Todos os laboratórios, exemplos, diagramas e cenários são fictícios ou baseados em informações públicas.
