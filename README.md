@@ -84,8 +84,8 @@ This profile will include independent and educational work such as:
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/l0cu70s/)
-- [YouTube](https://www.youtube.com/@l0cu70s)
-- [Blog](https://paragraph.com/@l0cu70s)
-- [Professional Profile](https://profiles.cyfrin.io/u/l0cu70s)
+- [YouTube](https://www.youtube.com/@IgorDocendoDiscimus)
+- [Portifólio](https://l0cu70s.github.io/cee-orbital/)
+- [Blog](https://x.com/L0CU70S)
 
 > **Disclaimer:** This is an independent educational portfolio. It does not contain client information, proprietary material, confidential data, credentials, internal architecture, or employer-owned documentation. All labs, examples, diagrams, and scenarios are fictional or based on public information.
