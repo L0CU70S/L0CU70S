@@ -85,7 +85,7 @@ Este perfil reunirá trabalhos independentes e educacionais, como:
 
 - [LinkedIn](https://www.linkedin.com/in/l0cu70s/)
 - [YouTube](https://www.youtube.com/@IgorDocendoDiscimus)
-- [Portifólio](https://l0cu70s.github.io/cee-orbital/)
+- [Portfólio](https://l0cu70s.github.io/cee-orbital/)
 - [Blog](https://x.com/L0CU70S)
 
 > **Aviso:** Este é um portfólio educacional e independente. Ele não contém informações de clientes, materiais proprietários, dados confidenciais, credenciais, arquiteturas internas ou documentação pertencente ao empregador. Todos os laboratórios, exemplos, diagramas e cenários são fictícios ou baseados em informações públicas.
