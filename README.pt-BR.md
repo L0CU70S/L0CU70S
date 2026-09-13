@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Igor S. Nascimento (L0CU70S)
 
-## Analista de Segurança da Informação | Blue Team | DFIR | OT/ICS
+## Analista de Segurança da Informação | Cibersegurança OT/ICS | Especializando em Cibersegurança Espacial (Segmento Terrestre / MOC) | Blue Team & DFIR | NIST - SPARTA - CCSDS | Trekker 🖖🏻
 
 Sou Analista de Segurança da Informação em Nextgen, uma consultoria de cibersegurança no Brasil. Participo de projetos de segurança da informação para ambientes corporativos e críticos, atuando em provas de conceito (POCs), implantações, configuração de ferramentas, troubleshooting, documentação técnica e suporte a clientes.
 
