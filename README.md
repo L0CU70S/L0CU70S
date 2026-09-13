@@ -2,7 +2,7 @@
 
 🇺🇸 English | [🇧🇷 Português](README.pt-BR.md)
 
-## Information Security Analyst | Information Security Analyst | OT / ICS Cybersecurity | Space Cyber (Ground Segment / MOC) | Blue Team & DFIR | NIST - SPARTA - CCSDS | Trekker 🖖
+## Information Security Analyst | OT / ICS Cybersecurity | Space Cyber (Ground Segment / MOC) | Blue Team & DFIR | NIST - SPARTA - CCSDS | Trekker 🖖
 
 I am an Information Security Analyst at Nextgen, a cybersecurity consultancy in Brazil. I contribute to information-security projects for corporate and critical environments, participating in proof of concepts (POCs), deployments, configuration, troubleshooting, technical documentation, and client support.
 
