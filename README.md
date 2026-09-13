@@ -87,7 +87,7 @@ My portfolio includes independent and educational work such as:
 
 - [LinkedIn](https://www.linkedin.com/in/l0cu70s/)
 - [YouTube](https://www.youtube.com/@IgorDocendoDiscimus)
-- [Portifólio](https://l0cu70s.github.io/cee-orbital/)
+- [Portfolio](https://l0cu70s.github.io/cee-orbital/)
 - [Blog](https://x.com/L0CU70S)
 
 > **Disclaimer:** This is an independent educational portfolio. It does not contain client information, proprietary material, confidential data, credentials, internal architecture, or employer-owned documentation. All labs, examples, diagrams, and scenarios are fictional or based on public information.
