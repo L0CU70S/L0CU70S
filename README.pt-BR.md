@@ -76,8 +76,8 @@ Este perfil reunirá trabalhos independentes e educacionais, como:
 ## 📌 Foco atual
 
 - [X] Estudar o SPARTA e documentar notas educacionais não oficiais em PT-BR
-- [x] Estudar o NIST IR 8270 para operações comerciais de satélite
-- [ ] Desenvolver um assessment fictício de segurança para Ground Segment
+- [X] Estudar o NIST IR 8270 para operações comerciais de satélite
+- [X] Desenvolver um assessment fictício de segurança para Ground Segment
 - [ ] Construir artefatos de laboratório de Blue Team, monitoramento e resposta a incidentes
 - [ ] Fortalecer os fundamentos de segurança OT/ICS para ambientes críticos
 
