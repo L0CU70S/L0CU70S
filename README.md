@@ -2,7 +2,7 @@
 
 🇺🇸 English | [🇧🇷 Português](README.pt-BR.md)
 
-## Information Security Analyst | Blue Team | DFIR | OT/ICS
+## Information Security Analyst | Information Security Analyst | OT / ICS Cybersecurity | Space Cyber (Ground Segment / MOC) | Blue Team & DFIR | NIST - SPARTA - CCSDS | Trekker 🖖
 
 I am an Information Security Analyst at Nextgen, a cybersecurity consultancy in Brazil. I contribute to information-security projects for corporate and critical environments, participating in proof of concepts (POCs), deployments, configuration, troubleshooting, technical documentation, and client support.
 
@@ -39,13 +39,13 @@ I am an Information Security Analyst at Nextgen, a cybersecurity consultancy in 
 
 `Linux` `Wazuh` `Zabbix` `Grafana` `GLPI` `Tor` `UFW`
 
-## 🚀 Space Cybersecurity Journey
+## 🚀 Space Cybersecurity Learning Journey
 
-I am beginning a structured specialization journey in **Space Cybersecurity**, with a focus on:
+I am building a structured learning and specialization journey in Space Cybersecurity, with a focus on:
 
 - Ground Segment Security
 - Mission Operations Center (MOC) Security
-- Link Security
+- Link and communications Security
 - Blue Team and DFIR applied to mission operations
 - OT/ICS and critical-systems security principles applied to space systems
 - Threat modeling, risk assessment, and security architecture
@@ -54,6 +54,7 @@ I am currently studying and documenting lessons from public and official referen
 
 - **SPARTA** — Space Attack Research and Tactic Analysis
 - **NIST IR 8270** — Cybersecurity for Commercial Satellite Operations
+- **NIST IR 8401** — Satellite Ground Segment: Applying the Cybersecurity Framework to Satellite Command and Control
 - **NIST SP 800-82** — Operational Technology and Industrial Control Systems Security
 - **CCSDS** security and space-data-system standards
 - ISO/IEC cybersecurity standards and industry practices
@@ -62,8 +63,9 @@ My goal is to develop practical, responsible expertise at the intersection of de
 
 ## 🧪 Projects and Learning Portfolio
 
-This profile will include independent and educational work such as:
+My portfolio includes independent and educational work such as:
 
+- [Portfolio](https://l0cu70s.github.io/cee-orbital/)
 - Blue Team and SIEM labs
 - DFIR notes and incident-response playbooks
 - PowerShell and Bash security automation
