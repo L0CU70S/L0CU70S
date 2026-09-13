@@ -79,7 +79,7 @@ My portfolio includes independent and educational work such as:
 
 - [X] Study SPARTA and document non-official PT-BR learning notes
 - [x] Study NIST IR 8270 for commercial satellite operations
-- [ ] Develop a fictional Ground Segment security assessment
+- [X] Develop a fictional Ground Segment security assessment
 - [ ] Build Blue Team, monitoring, and incident-response lab artifacts
 - [ ] Strengthen OT/ICS security fundamentals for critical environments
 
