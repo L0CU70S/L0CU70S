@@ -22,8 +22,8 @@
 
 > Transformar informação bruta em inteligência acionável, com IA como acelerador e o analista no laço.
 
-Atuo em consultoria de cibersegurança no Brasil. Formado em Defesa Cibernética, e especialzando em pós-graduação pela Unicesumar (2026–27), em Cyber Threat Intelligenc e IA aplicada em cibersegurança.
-
+Atuo em uma consultoria de cibersegurança no Brasil. 
+Sou formado em Defesa Cibernética, e estou me especializando em Cyber Threat Intelligenc & IA aplicada em cibersegurança. 
 O trabalho junta leitura tradicional de ameaça com NLP, Transformers e automação: triagem de relatório, apoio à análise de malware e resposta a incidentes.
 
 ---
@@ -38,11 +38,11 @@ Lá você irá encontrar:
 - o ponto do laboratório **MISP + OpenCTI**
 - a sala privada no **Element**, só como canal de resumo
 
-[L0CU70S Security](https://l0cu70s.github.io/)
+Venha conhecer a página [L0CU70S Security](https://l0cu70s.github.io/)
 
 ---
 
-## O que eu vejo:
+## Atividades:
 
 **CTI:** Ciclo de inteligência, IOCs, TTPs, atribuição e MITRE ATT&CK.
 
@@ -56,7 +56,7 @@ Lá você irá encontrar:
 
 ## Laboratório
 
-MISP, OpenCTI e Element como sala de aviso.
+MISP, OpenCTI + Element.
 
 `MISP em VM` · em andamento  
 `Feeds via API` · planejado  
@@ -71,10 +71,10 @@ MISP, OpenCTI e Element como sala de aviso.
 
 **Concluído:** Tecnólogo em Defesa Cibernética, Senac SP.
 
-**Em curso:** Pós em CTI e IA na cibersegurança, UniCesumar, 2026–27.  
+**Em curso:** Pós em CTI & IA aplicada à cibersegurança, UniCesumar, 2026–27.  
 NLP com IA generativa e Transformers. Segurança e confiabilidade em sistemas de IA. Big data e decisão. Análise de malware com IA. Ciclo de inteligência de ameaças.
 
-**Meta, ainda não obtida:** Security+ (CompTIA, Q3/27) · CTIA (EC-Council, Q2/28) · CEH (EC-Council, mindset ofensivo para defesa).
+**Objetivos:** Security+ (CompTIA, Q3/27) · CTIA (EC-Council, Q2/28) · CEH (EC-Council, mindset ofensivo para defesa).
 
 ---
 
@@ -98,24 +98,24 @@ NLP com IA generativa e Transformers. Segurança e confiabilidade em sistemas de
 
 **Operação:** CrowdStrike Falcon, Endpoint Central e XDR no endpoint. Wazuh, Log360 e Security Onion no SIEM. FortiGate e NGFW na rede. ISO 27001, LGPD e gestão de riscos no compliance.
 
-**Infra:** Windows Server 2019/2022, Active Directory e Entra ID. VMware, VirtualBox e KVM/QEMU. SQL, MariaDB e Redis no backend do MISP.
+**Infra:** Linux (várias distros), Windows Server 2019/2022, Active Directory e Entra ID. VMware, VirtualBox e KVM/QEMU. SQL, MariaDB e Redis no backend do MISP.
 
 ---
 
 ## Leitura recorrente
 
-Não são conectores já plugados no MISP. São as fontes que eu acompanho.
+Fontes que eu acompanho:
 
-- **Todo dia:** AlienVault OTX, CISA KEV, RansomLook, Cyware, CyberHeist, dentre outros...
-- **Na semana:** Unit 42 e FortiGuard
-- **Quando faz sentido:** VX-Underground, canais de Telegram sobre CVE e ransomware
+- **Todo dia:** AlienVault OTX, CISA KEV, RansomLook, Cyware, CyberHeist, Cyber Morning call, N2k Cyberwire, dentre outros...
+- **Na semana:** Unit 42, FortiGuard, Sophos ...
+- **Quando faz sentido:** VX-Underground, canais de Telegram sobre CVE, ransomware, noticias...
 
 ---
 
 ## Código público
 
 [cti-lab-setup](https://github.com/l0cu70s/cti-lab-setup)  
-Pipeline de MISP e automação. Python.
+Pipeline de MISP e automação com Python.
 
 [intel-reports](https://github.com/l0cu70s/intel-reports)  
 Templates de relatório de CTI.
